@@ -1,5 +1,5 @@
 # Process_Analytics
-
+Statistics
 ## Project Description
 This project is about one of the most fundamental and crucial functions in a
 company - Process Analytics. Being a Data Analyst, drawing insights and
