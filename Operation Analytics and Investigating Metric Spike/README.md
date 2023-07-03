@@ -1,5 +1,5 @@
 # Operation Analytics and Investigating Metric Spike
-
+Advanced SQL
 ## About 
 The project involves delving into operations analytics. This involves working closely with the ops, support, and
 marketing teams, to derive insights from the data. This analysis is used for more effective and better workflows,
