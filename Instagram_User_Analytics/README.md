@@ -20,9 +20,7 @@ Purpose - To create the initial database and perform the entire analysis answeri
 questions.
 
 ## Sample query outputs
-![Screenshot 2023-07-03 190007](https://github.com/nalindas9/sql-mysql/assets/44141068/25054a6b-7ccc-4fa5-b223-f0c10591b533)
-
-
+![Screenshot 2023-07-03 190007](https://github.com/nalindas9/sql-mysql/assets/44141068/7fc92a71-a292-458e-b8b5-4018387de389)
 
 ## Result
 This project has helped me to gain a good understanding of how MYSQL workbench works, how MySQL
