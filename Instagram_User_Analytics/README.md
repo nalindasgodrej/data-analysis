@@ -1,4 +1,5 @@
 # Instagram User Analytics
+[Click here to view PDF presentation](https://drive.google.com/file/d/1F92EcEgpV1eGhGl_Ze-lfSZsyFuY3rxU/view?usp=sharing)
 
 ## About 
 - This project is about providing insights on the questions asked by the product manager at the product team at Instagram.
