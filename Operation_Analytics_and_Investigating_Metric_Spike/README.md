@@ -1,4 +1,6 @@
 # Operation Analytics and Investigating Metric Spike
+[Click here to view PDF presentation](https://drive.google.com/file/d/1TcoMGOPTynRPg4oAzMuY83cRPGOmWgjj/view?usp=sharing)
+
 Advanced SQL
 ## About 
 The project involves delving into operations analytics. This involves working closely with the ops, support, and
