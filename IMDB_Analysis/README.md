@@ -57,7 +57,7 @@ Microsoft Excel/Google Sheets
 ![image](https://github.com/nalindas9/sql-mysql/assets/44141068/720ad1ba-cc0a-486d-8e82-6cf154434366)
 
 ### Result
-In this project, I think I have applied my previous knowledge of using Excel as a data analysis tool to derive
+In this project, I have applied my previous knowledge of using Excel as a data analysis tool to derive
 important insights. I have achieved cleaning up the data before carrying out the analysis, deriving movies
 with the highest profit and while observing the outliers, deriving the top 250 movies with the highest
 IMDb metrics and the top foreign language movies, finding the top 10 directors for whom the IMDb score
