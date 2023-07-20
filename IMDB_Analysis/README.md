@@ -1,5 +1,7 @@
 # IMDB Analysis
 
+[Click here to view presentation]()
+
 ## Project Description
 
 In this project, we are required to frame the problem. The questions that guide in framing the problem are as follows - what do
@@ -39,3 +41,27 @@ Microsoft Excel/Google Sheets
       <img style="max-width:500px;" src="https://cdn.loom.com/sessions/thumbnails/67c8a1df8fd24c7aa7a964239995a7f5-with-play.gif">
     </a>
 </div>
+
+## Output Charts and Graphs
+
+### Line Chart with Trendline
+![image](https://github.com/nalindas9/sql-mysql/assets/44141068/107e3009-d7a3-4f36-a5a6-69dbc7dbcf85)
+
+### Column Chart
+![image](https://github.com/nalindas9/sql-mysql/assets/44141068/454623f1-af38-49c0-92d2-983a59a5adcb)
+
+### Line Chart
+![image](https://github.com/nalindas9/sql-mysql/assets/44141068/cd2f2885-65bb-4a29-91c0-38bb8e8151e2)
+
+### Bar Chart
+![image](https://github.com/nalindas9/sql-mysql/assets/44141068/720ad1ba-cc0a-486d-8e82-6cf154434366)
+
+### Result
+In this project, I think I have applied my previous knowledge of using Excel as a data analysis tool to derive
+important insights. I have achieved cleaning up the data before carrying out the analysis, deriving movies
+with the highest profit and while observing the outliers, deriving the top 250 movies with the highest
+IMDb metrics and the top foreign language movies, finding the top 10 directors for whom the IMDb score
+is the highest, finding the most popular genres, finding the critic and audience-favorite actors and
+observing and plotting the change in the number of voted users in each decade. Through this project, I have
+acquired a strong understanding of the various data analytics techniques and also attained an advanced
+excel and statistical understanding.
