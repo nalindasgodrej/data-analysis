@@ -1,6 +1,6 @@
 # IMDB Analysis
 
-[Click here to view presentation]()
+[Click here to view presentation](https://drive.google.com/file/d/1JeJPJpO7RuOMspJ6XjN2bIfkJaoLtzVu/view?usp=sharing)
 
 ## Project Description
 
