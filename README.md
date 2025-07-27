@@ -1,6 +1,6 @@
 # sql-mysql
 
-Repository for Data Analysis using SQL, MySQL, Microsoft Excel, Google Sheets
+Repository for Data Analysis using SQL, MySQL, Microsoft Excel, Google Sheets.
 
 ## Table of Contents
 - [Data_Analytics_Process](./Data_Analytics_Process/README.md)
